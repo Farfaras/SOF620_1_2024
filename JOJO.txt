@@ -1,0 +1,12 @@
+nombre de dominio:debian.com
+contraseña para el superusuario:Gratan12
+nombre completo del usaurio: yerson
+usario:yerson
+contraseña para el usuario:Gratan21
+ip:181.115.214.126
+
+sudo -'echo"deb https://packages.sury.org/php/$(lsb_release -sc) main" › /etc/source.list.d/php.list'
+
+D8:9E:61:7E:41:34
+7C:C2:C6:18:75:31
+1A:3F:EF:9A:76:F5
